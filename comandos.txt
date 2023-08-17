@@ -1,0 +1,47 @@
+  207  leagueoflegends kill 
+  208  htop
+  209  ps -ef | grep yay
+  210  htop
+  211  git clone https://github.com/LuisDelgado-LD/Checkpoint-LD-CAM1.git
+  212  ls -a
+  213  cd Checkpoint-LD-CAM1/
+  214  ls
+  215  ls -a
+  216  rm .git/
+  217  rm .git/ -r
+  218  git init
+  219  git remote add https://github.com/LuisDelgado-LD/Checkpoint-LD-CAM1.git
+  220  git remote add https://github.com/LuisDelgado-LD/Checkpoint-LD-CAM1.git
+  221  git remote add origin https://github.com/LuisDelgado-LD/Checkpoint-LD-CAM1.git
+  222  touch main.hs index.html
+  223  git add .
+  224  git commit -m "primer commit"
+  225  git config user.email "master@luis.verso" 
+  226  git config user.name "LD"
+  227  git commit -m "primer commit"
+  228  git push origin master
+  229  git branch feature
+  230  git checkout feature 
+  231  mkdir Hardware Software SeguridadInformatica
+  232  touch */resumen.txt
+  233  ls
+  234  touch {H*,S*}/resumen.txt
+  235  touch Hardware/resumen.txt
+  236  touch Software/resumen.txt
+  237  touch SeguridadInformatica/resumen.txt
+  238  git status
+  239  ls -lR
+  240  git add .
+  241  git commit -m "2do comm estructura"
+  242  git push  feature
+  243  git push origin  feature
+  244  git switch master 
+  245  mv main.hs resumenHardware.txt
+  246  mv index.html resumenSoftware.txt
+  247  echo zoom\nfirefox\telegram >> resumenSoftware.txt
+  248  cat resumenSoftware.txt
+  249  nano resumenSoftware.txt
+  250  echo ram >> resumenHardware.txt 
+  251  echo rom >> resumenHardware.txt 
+  252  echo cache >> resumenHardware.txt 
+  256  history 50 >> comandos.txt
